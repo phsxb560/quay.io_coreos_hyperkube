@@ -1,0 +1,1 @@
+FROM quay.io/coreos/flannel:v1.9.5_coreos.0
